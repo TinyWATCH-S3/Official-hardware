@@ -187,7 +187,7 @@
   (net 88 "/LDO_EN")
   (net 89 "/FLASH2_CS")
 
-  (footprint "Unexpected Maker:XC6194BANNERG" (layer "F.Cu")
+  (footprint "TinyWATCH_S3:XC6194BANNERG" (layer "F.Cu")
     (tstamp 0507af62-7ce3-4532-aa31-d95ff8e33a95)
     (at 152.35 94.05)
     (descr "<b>XC6194BANNER-G</b><br>\n")
@@ -356,7 +356,7 @@
     )
   )
 
-  (footprint "TinyS3_P3:_0402_SRN" (layer "F.Cu")
+  (footprint "TinyWATCH_S3:_0402_SRN" (layer "F.Cu")
     (tstamp 088f6488-0b1b-4e78-aa12-4b7920b74ada)
     (at 141.96 92.4 -45)
     (property "Sheetfile" "TinyWATCH_S3_P3.kicad_sch")
@@ -404,7 +404,7 @@
     )
   )
 
-  (footprint "TinyS3_P3:_0402_SRN" (layer "F.Cu")
+  (footprint "TinyWATCH_S3:_0402_SRN" (layer "F.Cu")
     (tstamp 099806e7-08eb-499e-8f34-abdba38bb446)
     (at 141.15 98.01 -90)
     (property "Sheetfile" "TinyWATCH_S3_P3.kicad_sch")
@@ -506,7 +506,7 @@
     )
   )
 
-  (footprint "TinyS3_P3:_0402_SRN" (layer "F.Cu")
+  (footprint "TinyWATCH_S3:_0402_SRN" (layer "F.Cu")
     (tstamp 0a7b8648-35b1-4314-b498-f165dea83359)
     (at 146.4 83.15 45)
     (property "Sheetfile" "TinyWATCH_S3_P3.kicad_sch")
@@ -554,7 +554,7 @@
     )
   )
 
-  (footprint "TinyS3_P3:_0402_SRN" (layer "F.Cu")
+  (footprint "TinyWATCH_S3:_0402_SRN" (layer "F.Cu")
     (tstamp 0dd65530-74d4-475a-8e91-1c348060bc8c)
     (at 152.54 83.82 -90)
     (property "Sheetfile" "TinyWATCH_S3_P3.kicad_sch")
@@ -606,7 +606,7 @@
     )
   )
 
-  (footprint "TinyS3_P3:_0402_SRN" (layer "F.Cu")
+  (footprint "TinyWATCH_S3:_0402_SRN" (layer "F.Cu")
     (tstamp 0e1bde4f-db90-414a-bca3-0b79d6240421)
     (at 143.55 83.65 -45)
     (property "Sheetfile" "TinyWATCH_S3_P3.kicad_sch")
@@ -660,7 +660,7 @@
     )
   )
 
-  (footprint "TinyS3_P3:_0402_SRN" (layer "F.Cu")
+  (footprint "TinyWATCH_S3:_0402_SRN" (layer "F.Cu")
     (tstamp 0f44d0db-72ab-498a-a887-2d5416346226)
     (at 136.73 87.33 180)
     (property "Sheetfile" "TinyWATCH_S3_P3.kicad_sch")
@@ -874,7 +874,7 @@
       (stroke (width 0) (type solid)) (fill solid) (layer "F.SilkS") (tstamp 10e4565c-ac15-482e-9b7c-7a9663ea59ea))
   )
 
-  (footprint "TinyS3_P3:_0402_SRN" (layer "F.Cu")
+  (footprint "TinyWATCH_S3:_0402_SRN" (layer "F.Cu")
     (tstamp 146ab7a8-a79f-4a60-b171-de4a6558a712)
     (at 134.94 94.25 180)
     (property "Sheetfile" "TinyWATCH_S3_P3.kicad_sch")
@@ -924,7 +924,7 @@
     )
   )
 
-  (footprint "TinyS3_P3:_0402_SRN" (layer "F.Cu")
+  (footprint "TinyWATCH_S3:_0402_SRN" (layer "F.Cu")
     (tstamp 17994a0a-0608-4a76-9cad-d28b00480472)
     (at 150.1 87.11 -45)
     (property "Sheetfile" "TinyWATCH_S3_P3.kicad_sch")
@@ -972,7 +972,7 @@
     )
   )
 
-  (footprint "TinyS3_P3:_0402_SRN" (layer "F.Cu")
+  (footprint "TinyWATCH_S3:_0402_SRN" (layer "F.Cu")
     (tstamp 1f24cf7d-786c-494f-aef7-d771fe003298)
     (at 142.719553 84.843764 135)
     (property "Sheetfile" "TinyWATCH_S3_P3.kicad_sch")
@@ -1020,7 +1020,7 @@
     )
   )
 
-  (footprint "Unexpected Maker:IC_RV-3028-C7-32.768KHZ-1PPM-TA-QA" (layer "F.Cu")
+  (footprint "TinyWATCH_S3:IC_RV-3028-C7-32.768KHZ-1PPM-TA-QA" (layer "F.Cu")
     (tstamp 213c8254-79a5-48d7-86fe-64614b9648f0)
     (at 150.73 83.06)
     (property "MANUFACTURER" "Micro Crystal")
@@ -1084,7 +1084,7 @@
     )
   )
 
-  (footprint "TinyS3_P3:_0402_SRN" (layer "F.Cu")
+  (footprint "TinyWATCH_S3:_0402_SRN" (layer "F.Cu")
     (tstamp 21543806-9f1a-4bd2-89c5-9cd25580943a)
     (at 148.85 85.86 135)
     (property "Sheetfile" "TinyWATCH_S3_P3.kicad_sch")
@@ -1127,7 +1127,7 @@
       (net 1 "GND") (pinfunction "P$2") (pintype "passive") (solder_mask_margin 0.0254) (tstamp ed6d8a59-2853-4a4e-9ca8-5a2a318a257c))
   )
 
-  (footprint "TinyS3_P3:_0402_SRN" (layer "F.Cu")
+  (footprint "TinyWATCH_S3:_0402_SRN" (layer "F.Cu")
     (tstamp 254350ae-0647-4c84-9f9d-6a5dff3a008f)
     (at 153.0446 91.78)
     (property "Sheetfile" "TinyWATCH_S3_P3.kicad_sch")
@@ -1175,7 +1175,7 @@
     )
   )
 
-  (footprint "TinyS3_P3:_0402_SRN" (layer "F.Cu")
+  (footprint "TinyWATCH_S3:_0402_SRN" (layer "F.Cu")
     (tstamp 256ac8c7-5afd-4142-b457-cb8547bdddd1)
     (at 153.0446 90.76 180)
     (property "Sheetfile" "TinyWATCH_S3_P3.kicad_sch")
@@ -1227,7 +1227,7 @@
     )
   )
 
-  (footprint "Unexpected Maker:JST-PICOBLADE" (layer "F.Cu")
+  (footprint "TinyWATCH_S3:JST-PICOBLADE" (layer "F.Cu")
     (tstamp 26ce889d-a91f-4172-a997-b84018cb89b6)
     (at 135.88 99.42 180)
     (descr "2-Pin JST PH Series Right-Angle Connector (+/- for batteries)")
@@ -1266,7 +1266,7 @@
     )
   )
 
-  (footprint "TinyS3_P3:_0402_SRN" (layer "F.Cu")
+  (footprint "TinyWATCH_S3:_0402_SRN" (layer "F.Cu")
     (tstamp 2718276e-3177-4a48-9410-45d694e3be1b)
     (at 135.66 104.79)
     (property "Sheetfile" "TinyWATCH_S3_P3.kicad_sch")
@@ -1314,7 +1314,7 @@
     )
   )
 
-  (footprint "TinyS3_P3:_0402_SRN" (layer "F.Cu")
+  (footprint "TinyWATCH_S3:_0402_SRN" (layer "F.Cu")
     (tstamp 275d23a4-6796-4aa3-90dd-4d5b72485c84)
     (at 150.81 80.73 180)
     (property "Sheetfile" "TinyWATCH_S3_P3.kicad_sch")
@@ -1362,7 +1362,7 @@
     )
   )
 
-  (footprint "TinyS3_P3:_0402_SRN" (layer "F.Cu")
+  (footprint "TinyWATCH_S3:_0402_SRN" (layer "F.Cu")
     (tstamp 2983cf0b-dc31-4a3d-81a3-e54867e22f0b)
     (at 155.32 87.5)
     (property "Sheetfile" "TinyWATCH_S3_P3.kicad_sch")
@@ -1410,7 +1410,7 @@
     )
   )
 
-  (footprint "Unexpected Maker:UM_LOGO_NEW_TINY" (layer "F.Cu")
+  (footprint "TinyWATCH_S3:UM_LOGO_NEW_TINY" (layer "F.Cu")
     (tstamp 31368db4-336f-43a3-ace1-9e3be37e6ee3)
     (at 135.77 83.37)
     (property "Sheetfile" "TinyWATCH_S3_R4.kicad_sch")
@@ -1719,7 +1719,7 @@
       (stroke (width 0) (type solid)) (fill solid) (layer "F.SilkS") (tstamp 4c5dd404-8f13-4adb-ac65-ef768e45cdaf))
   )
 
-  (footprint "TinyS3_P3:_0402_SRN" (layer "F.Cu")
+  (footprint "TinyWATCH_S3:_0402_SRN" (layer "F.Cu")
     (tstamp 34046e6f-0f60-4334-aa3e-dabb17268d72)
     (at 146.97 95.245 180)
     (property "Sheetfile" "TinyWATCH_S3_P3.kicad_sch")
@@ -1767,7 +1767,7 @@
     )
   )
 
-  (footprint "TinyS3_P3:_0402_SRN" (layer "F.Cu")
+  (footprint "TinyWATCH_S3:_0402_SRN" (layer "F.Cu")
     (tstamp 348f6e1a-f1f2-459c-b7c3-aeb4d9635e7e)
     (at 151.37 91.78 180)
     (property "Sheetfile" "TinyWATCH_S3_P3.kicad_sch")
@@ -1819,7 +1819,7 @@
     )
   )
 
-  (footprint "TinyS3_P3:_0402_SRN" (layer "F.Cu")
+  (footprint "TinyWATCH_S3:_0402_SRN" (layer "F.Cu")
     (tstamp 36bf8fcc-071f-4737-a6ba-d7e98f2f33c4)
     (at 147.06 83.81 45)
     (property "Sheetfile" "TinyWATCH_S3_P3.kicad_sch")
@@ -1867,7 +1867,7 @@
     )
   )
 
-  (footprint "Unexpected Maker:Flash_W25Q80DVUXIE" (layer "F.Cu")
+  (footprint "TinyWATCH_S3:Flash_W25Q80DVUXIE" (layer "F.Cu")
     (tstamp 393278b0-f3c9-4815-b6e3-dfe7792feca7)
     (at 155.79 106.93)
     (property "Sheetfile" "TinyWATCH_S3_P3.kicad_sch")
@@ -1926,7 +1926,7 @@
     )
   )
 
-  (footprint "TinyS3_P3:_0402_SRN" (layer "F.Cu")
+  (footprint "TinyWATCH_S3:_0402_SRN" (layer "F.Cu")
     (tstamp 3b8ec9c5-4651-444e-aa18-5f9a2f224d0a)
     (at 138.35 87.32 180)
     (property "Sheetfile" "TinyWATCH_S3_P3.kicad_sch")
@@ -1976,7 +1976,7 @@
     )
   )
 
-  (footprint "TinyS3_P3:_0402_SRN" (layer "F.Cu")
+  (footprint "TinyWATCH_S3:_0402_SRN" (layer "F.Cu")
     (tstamp 3c18c3e2-5c65-4c17-8808-018649069a28)
     (at 135.07 89.27 -90)
     (property "Sheetfile" "TinyWATCH_S3_P3.kicad_sch")
@@ -2304,7 +2304,7 @@
     )
   )
 
-  (footprint "TinyS3_P3:_0402_SRN" (layer "F.Cu")
+  (footprint "TinyWATCH_S3:_0402_SRN" (layer "F.Cu")
     (tstamp 4038edc2-9321-471e-8428-e427cc99f6d3)
     (at 146.97 96.31 180)
     (property "Sheetfile" "TinyWATCH_S3_P3.kicad_sch")
@@ -2352,7 +2352,7 @@
     )
   )
 
-  (footprint "TinyS3_P3:_0402_SRN" (layer "F.Cu")
+  (footprint "TinyWATCH_S3:_0402_SRN" (layer "F.Cu")
     (tstamp 4369f097-3705-42ef-92c8-af3a15b7b6de)
     (at 155.74 92.68)
     (property "Sheetfile" "TinyWATCH_S3_P3.kicad_sch")
@@ -2400,7 +2400,7 @@
     )
   )
 
-  (footprint "TinyS3_P3:_0402_SRN" (layer "F.Cu")
+  (footprint "TinyWATCH_S3:_0402_SRN" (layer "F.Cu")
     (tstamp 45c2f4f0-d411-4504-9a8e-b1fda65010c8)
     (at 139.28 95.78)
     (property "Sheetfile" "TinyWATCH_S3_P3.kicad_sch")
@@ -2448,7 +2448,7 @@
     )
   )
 
-  (footprint "TinyS3_P3:_0402_SRN" (layer "F.Cu")
+  (footprint "TinyWATCH_S3:_0402_SRN" (layer "F.Cu")
     (tstamp 46983f7e-5bef-4995-8270-5338eefeb087)
     (at 155.42 83.51 180)
     (property "Sheetfile" "TinyWATCH_S3_P3.kicad_sch")
@@ -2746,7 +2746,7 @@
     )
   )
 
-  (footprint "Unexpected Maker:TVS X1-DFN1006-2" (layer "F.Cu")
+  (footprint "TinyWATCH_S3:TVS X1-DFN1006-2" (layer "F.Cu")
     (tstamp 4a0add20-e51c-4a6e-be5e-9f301dabe703)
     (at 156.5 89.6 -90)
     (descr "DFN package size 1006 3 pins")
@@ -2806,7 +2806,7 @@
     )
   )
 
-  (footprint "TinyS3_P3:_0402_SRN" (layer "F.Cu")
+  (footprint "TinyWATCH_S3:_0402_SRN" (layer "F.Cu")
     (tstamp 4aa646be-d071-439b-a4bb-9d56ead7ee91)
     (at 155.76 82.089999 90)
     (property "Sheetfile" "TinyWATCH_S3_P3.kicad_sch")
@@ -2922,7 +2922,7 @@
     )
   )
 
-  (footprint "TinyS3_P3:_0402_SRN" (layer "F.Cu")
+  (footprint "TinyWATCH_S3:_0402_SRN" (layer "F.Cu")
     (tstamp 5574c26b-9c0f-4218-b11d-c5de22b53b99)
     (at 151.58 86.37 90)
     (property "Sheetfile" "TinyWATCH_S3_P3.kicad_sch")
@@ -2972,7 +2972,7 @@
     )
   )
 
-  (footprint "TinyS3_P3:_0402_SRN" (layer "F.Cu")
+  (footprint "TinyWATCH_S3:_0402_SRN" (layer "F.Cu")
     (tstamp 5726f81d-f526-4596-8c45-d84269ead5ea)
     (at 135.4885 93.24)
     (property "Sheetfile" "TinyWATCH_S3_P3.kicad_sch")
@@ -3022,7 +3022,7 @@
     )
   )
 
-  (footprint "TinyS3_P3:_0402_SRN" (layer "F.Cu")
+  (footprint "TinyWATCH_S3:_0402_SRN" (layer "F.Cu")
     (tstamp 593d365a-b79e-40e1-88f8-f6080e912368)
     (at 155.32 88.38)
     (property "Sheetfile" "TinyWATCH_S3_P3.kicad_sch")
@@ -3070,7 +3070,7 @@
     )
   )
 
-  (footprint "TinyS3_P3:_0402_SRN" (layer "F.Cu")
+  (footprint "TinyWATCH_S3:_0402_SRN" (layer "F.Cu")
     (tstamp 5a2f2d04-52a6-424b-93b1-184cd66036e4)
     (at 140.23 94.01 90)
     (property "Sheetfile" "TinyWATCH_S3_P3.kicad_sch")
@@ -3118,7 +3118,7 @@
     )
   )
 
-  (footprint "UnexpectedMaker:QFN56-ESP32-S3-PROD-THIN" (layer "F.Cu")
+  (footprint "TinyWATCH_S3:QFN56-ESP32-S3-PROD-THIN" (layer "F.Cu")
     (tstamp 5ac15b42-ebb5-4cee-9d3e-df5f05d4fdcb)
     (at 145.408578 89.165044 -45)
     (descr "<b>56-pin QFN 7 x 7 mm</b><p>\n56 Quad Flat Package No Leads<br>\n2019 Unexpected Maker")
@@ -3852,7 +3852,7 @@
     )
   )
 
-  (footprint "TinyS3_P3:_0402_SRN" (layer "F.Cu")
+  (footprint "TinyWATCH_S3:_0402_SRN" (layer "F.Cu")
     (tstamp 629297c6-7dd5-4c38-915c-9c02e83cecef)
     (at 156.74 104.91)
     (property "Sheetfile" "TinyWATCH_S3_P3.kicad_sch")
@@ -3900,7 +3900,7 @@
     )
   )
 
-  (footprint "TinyS3_P3:_0402_SRN" (layer "F.Cu")
+  (footprint "TinyWATCH_S3:_0402_SRN" (layer "F.Cu")
     (tstamp 6801f679-aba3-4530-b6aa-16ce53c3d1f4)
     (at 145.72 100.88 -90)
     (property "Sheetfile" "TinyWATCH_S3_P3.kicad_sch")
@@ -4044,7 +4044,7 @@
     )
   )
 
-  (footprint "TinyS3_P3:_0402_SRN" (layer "F.Cu")
+  (footprint "TinyWATCH_S3:_0402_SRN" (layer "F.Cu")
     (tstamp 71bc3faa-a40c-4446-8341-593a6d88fb65)
     (at 142.49 97.99 -90)
     (property "Sheetfile" "TinyWATCH_S3_P3.kicad_sch")
@@ -4092,7 +4092,7 @@
     )
   )
 
-  (footprint "TinyS3_P3:SOT723" (layer "F.Cu")
+  (footprint "TinyWATCH_S3:SOT723" (layer "F.Cu")
     (tstamp 78d81cf3-9a64-4251-9b80-fa39835c9314)
     (at 147.07 100.89 90)
     (property "Sheetfile" "TinyWATCH_S3_P3.kicad_sch")
@@ -4136,7 +4136,7 @@
     )
   )
 
-  (footprint "TinyS3_P3:_0402_SRN" (layer "F.Cu")
+  (footprint "TinyWATCH_S3:_0402_SRN" (layer "F.Cu")
     (tstamp 79c403c1-9078-47c6-933f-699d3a52407e)
     (at 148.93 81.69 -90)
     (property "Sheetfile" "TinyWATCH_S3_P3.kicad_sch")
@@ -4184,7 +4184,7 @@
     )
   )
 
-  (footprint "TinyS3_P3:SOT23-5-SML2" (layer "F.Cu")
+  (footprint "TinyWATCH_S3:SOT23-5-SML2" (layer "F.Cu")
     (tstamp 7a392dac-0e5e-4ec7-86b3-c8dee3882b5c)
     (at 146.01 98.36 -90)
     (descr "<b>Small Outline Transistor</b><p>\nSOT753 - Philips Semiconductors<br>\nSource: http://www.semiconductors.philips.com/acrobat_download/datasheets/74HC_HCT1G66_3.pdf")
@@ -4270,7 +4270,7 @@
     )
   )
 
-  (footprint "UnexpectedMaker:VREG_NCP170AMX300TCG" (layer "F.Cu")
+  (footprint "TinyWATCH_S3:VREG_NCP170AMX300TCG" (layer "F.Cu")
     (tstamp 7af5ab06-6a1c-4dfb-8a56-4e5df60ab4fd)
     (at 153.0446 89.339099 -90)
     (property "Sheetfile" "TinyWATCH_S3_P3.kicad_sch")
@@ -4455,7 +4455,7 @@
     )
   )
 
-  (footprint "TinyS3_P3:_0402_SRN" (layer "F.Cu")
+  (footprint "TinyWATCH_S3:_0402_SRN" (layer "F.Cu")
     (tstamp 80848d2e-c593-4252-aee6-08e55ef2da33)
     (at 152.54 82.19 90)
     (property "Sheetfile" "TinyWATCH_S3_P3.kicad_sch")
@@ -4503,7 +4503,7 @@
     )
   )
 
-  (footprint "TinyS3_P3:_0402_SRN" (layer "F.Cu")
+  (footprint "TinyWATCH_S3:_0402_SRN" (layer "F.Cu")
     (tstamp 81b7e5a4-cc6a-4ee7-81b3-5278ad9c16ba)
     (at 155.02 104.93)
     (property "Sheetfile" "TinyWATCH_S3_P3.kicad_sch")
@@ -4585,7 +4585,7 @@
       (stroke (width 0.3) (type solid)) (layer "Dwgs.User") (tstamp 790b2208-bada-4fd6-a776-0380dbfb0566))
   )
 
-  (footprint "TinyS3_P3:_0402_SRN" (layer "F.Cu")
+  (footprint "TinyWATCH_S3:_0402_SRN" (layer "F.Cu")
     (tstamp 8946589e-4ef9-4292-8cef-0f02443b9e24)
     (at 152.54 85.48 90)
     (property "Sheetfile" "TinyWATCH_S3_P3.kicad_sch")
@@ -4678,7 +4678,7 @@
       (stroke (width 0) (type solid)) (fill solid) (layer "F.SilkS") (tstamp db820eb6-efec-4037-b8f9-65bc391260f3))
   )
 
-  (footprint "Unexpected Maker:TVS X1-DFN1006-2" (layer "F.Cu")
+  (footprint "TinyWATCH_S3:TVS X1-DFN1006-2" (layer "F.Cu")
     (tstamp 8f01a6de-2bcf-4b82-be69-338721661155)
     (at 135.23 87.02 90)
     (descr "DFN package size 1006 3 pins")
@@ -4963,7 +4963,7 @@
     )
   )
 
-  (footprint "TinyS3_P3:_0402_SRN" (layer "F.Cu")
+  (footprint "TinyWATCH_S3:_0402_SRN" (layer "F.Cu")
     (tstamp 931c06ad-46cb-4782-a639-981364e654e6)
     (at 147.81 98.37 180)
     (property "Sheetfile" "TinyWATCH_S3_P3.kicad_sch")
@@ -5011,7 +5011,7 @@
     )
   )
 
-  (footprint "Unexpected Maker:SOD-523-MSK4010" (layer "F.Cu")
+  (footprint "TinyWATCH_S3:SOD-523-MSK4010" (layer "F.Cu")
     (tstamp 9ef64e29-a339-4090-a37e-0269fb20e25f)
     (at 150.94 100.48 -90)
     (descr "SOD-523 (Small Outline Diode)")
@@ -5080,7 +5080,7 @@
     )
   )
 
-  (footprint "Unexpected Maker:SOD-523-MSK4010" (layer "F.Cu")
+  (footprint "TinyWATCH_S3:SOD-523-MSK4010" (layer "F.Cu")
     (tstamp a0f6c184-cf6b-47c1-b645-77ec014f2bab)
     (at 133.54 104.79)
     (descr "SOD-523 (Small Outline Diode)")
@@ -5149,7 +5149,7 @@
     )
   )
 
-  (footprint "TinyS3_P3:_0402_SRN" (layer "F.Cu")
+  (footprint "TinyWATCH_S3:_0402_SRN" (layer "F.Cu")
     (tstamp a49e19dc-2a9d-4c4c-ac26-773c418208dd)
     (at 154.43 92.23 90)
     (property "Sheetfile" "TinyWATCH_S3_P3.kicad_sch")
@@ -5201,7 +5201,7 @@
     )
   )
 
-  (footprint "TinyS3_P3:_0402_SRN" (layer "F.Cu")
+  (footprint "TinyWATCH_S3:_0402_SRN" (layer "F.Cu")
     (tstamp a992267f-5aab-463a-9db0-a1b5bc7e80dc)
     (at 154.81 82.089999 90)
     (property "Sheetfile" "TinyWATCH_S3_P3.kicad_sch")
@@ -5253,7 +5253,7 @@
     )
   )
 
-  (footprint "TinyS3_P3:_0402_SRN" (layer "F.Cu")
+  (footprint "TinyWATCH_S3:_0402_SRN" (layer "F.Cu")
     (tstamp ab624fed-635d-48fa-a99e-8e0a5633f6f0)
     (at 147.42 93.94 90)
     (property "Sheetfile" "TinyWATCH_S3_P3.kicad_sch")
@@ -5300,7 +5300,7 @@
     )
   )
 
-  (footprint "Unexpected Maker:TVS X1-DFN1006-2" (layer "F.Cu")
+  (footprint "TinyWATCH_S3:TVS X1-DFN1006-2" (layer "F.Cu")
     (tstamp b020363f-d46b-4d92-9e20-c7844eb7c9a5)
     (at 153.42 101.09 90)
     (descr "DFN package size 1006 3 pins")
@@ -5534,7 +5534,7 @@
       (stroke (width 0) (type solid)) (fill solid) (layer "F.SilkS") (tstamp f89e79ac-6751-4a2c-aa5d-5ff86985d11f))
   )
 
-  (footprint "TinyS3_P3:_0402_SRN" (layer "F.Cu")
+  (footprint "TinyWATCH_S3:_0402_SRN" (layer "F.Cu")
     (tstamp b7cd7d8a-6608-4117-a423-b8a329c329bd)
     (at 142.047801 85.515514 135)
     (property "Sheetfile" "TinyWATCH_S3_P3.kicad_sch")
@@ -5582,7 +5582,7 @@
     )
   )
 
-  (footprint "TinyS3_P3:_0402_SRN" (layer "F.Cu")
+  (footprint "TinyWATCH_S3:_0402_SRN" (layer "F.Cu")
     (tstamp b8e5f446-b3ae-43c2-a7ad-9708082c5d61)
     (at 139.41 88.59 -90)
     (property "Sheetfile" "TinyWATCH_S3_P3.kicad_sch")
@@ -5634,7 +5634,7 @@
     )
   )
 
-  (footprint "Unexpected Maker:TVS X1-DFN1006-2" (layer "F.Cu")
+  (footprint "TinyWATCH_S3:TVS X1-DFN1006-2" (layer "F.Cu")
     (tstamp ba960c0c-7133-4ed1-92ae-3c227c7747ef)
     (at 156.5 91.35 90)
     (descr "DFN package size 1006 3 pins")
@@ -5694,7 +5694,7 @@
     )
   )
 
-  (footprint "TinyS3_P3:_0402_SRN" (layer "F.Cu")
+  (footprint "TinyWATCH_S3:_0402_SRN" (layer "F.Cu")
     (tstamp bad5d4c6-0425-48c2-923f-062c2d51b3a2)
     (at 142.45 101.6 -90)
     (property "Sheetfile" "TinyWATCH_S3_P3.kicad_sch")
@@ -5742,7 +5742,7 @@
     )
   )
 
-  (footprint "TinyS3_P3:_0402_SRN" (layer "F.Cu")
+  (footprint "TinyWATCH_S3:_0402_SRN" (layer "F.Cu")
     (tstamp bb1b7720-bef4-43e6-87ef-f0a7b1d54d82)
     (at 152.05 96.8)
     (property "Sheetfile" "TinyWATCH_S3_P3.kicad_sch")
@@ -5900,7 +5900,7 @@
       (stroke (width 0) (type solid)) (fill solid) (layer "F.SilkS") (tstamp 9197c414-4f6e-4dea-8b16-c90ca8c41483))
   )
 
-  (footprint "TinyS3_P3:_0402_SRN" (layer "F.Cu")
+  (footprint "TinyWATCH_S3:_0402_SRN" (layer "F.Cu")
     (tstamp bbe6c26d-0eea-4f1b-a93a-26fa0dac3c4b)
     (at 157.71 103.83 180)
     (property "Sheetfile" "TinyWATCH_S3_P3.kicad_sch")
@@ -5948,7 +5948,7 @@
     )
   )
 
-  (footprint "TinyS3_P3:_0402_SRN" (layer "F.Cu")
+  (footprint "TinyWATCH_S3:_0402_SRN" (layer "F.Cu")
     (tstamp bdc6ff8a-a7e5-4ee0-a978-af4859f1b776)
     (at 134.9 103.26 90)
     (property "Sheetfile" "TinyWATCH_S3_P3.kicad_sch")
@@ -6000,7 +6000,7 @@
     )
   )
 
-  (footprint "Unexpected Maker:TVS X1-DFN1006-2" (layer "F.Cu")
+  (footprint "TinyWATCH_S3:TVS X1-DFN1006-2" (layer "F.Cu")
     (tstamp be0e48a0-354f-4806-9625-5f8af8cac7fc)
     (at 157.01 86.75 90)
     (descr "DFN package size 1006 3 pins")
@@ -6060,7 +6060,7 @@
     )
   )
 
-  (footprint "Unexpected Maker:SPH0645LM4H" (layer "F.Cu")
+  (footprint "TinyWATCH_S3:SPH0645LM4H" (layer "F.Cu")
     (tstamp c613d8f2-b725-4ffe-b95f-994e8b1eea53)
     (at 158.07 83.44 90)
     (property "Sheetfile" "TinyWATCH_S3_P3.kicad_sch")
@@ -6110,7 +6110,7 @@
     )
   )
 
-  (footprint "Unexpected Maker:TVS X1-DFN1006-2" (layer "F.Cu")
+  (footprint "TinyWATCH_S3:TVS X1-DFN1006-2" (layer "F.Cu")
     (tstamp c69a3a73-acce-49e3-b750-5a47e15ec3d5)
     (at 159.34 104.71)
     (descr "DFN package size 1006 3 pins")
@@ -6170,7 +6170,7 @@
     )
   )
 
-  (footprint "TinyS3_P3:_0402_SRN" (layer "F.Cu")
+  (footprint "TinyWATCH_S3:_0402_SRN" (layer "F.Cu")
     (tstamp c780edde-caac-49f6-8d85-3ad5fe29ddc7)
     (at 152.05 95.83 180)
     (property "Sheetfile" "TinyWATCH_S3_P3.kicad_sch")
@@ -6222,7 +6222,7 @@
     )
   )
 
-  (footprint "TinyS3_P3:_0402_SRN" (layer "F.Cu")
+  (footprint "TinyWATCH_S3:_0402_SRN" (layer "F.Cu")
     (tstamp cbd0aa5e-d4bc-419b-b410-dce307a24fa9)
     (at 143.48 98.87 90)
     (property "Sheetfile" "TinyWATCH_S3_P3.kicad_sch")
@@ -6270,7 +6270,7 @@
     )
   )
 
-  (footprint "Unexpected Maker:ANT_2450AT18B100E" (layer "F.Cu")
+  (footprint "TinyWATCH_S3:ANT_2450AT18B100E" (layer "F.Cu")
     (tstamp cc3b520d-4885-4301-89bf-ac34f9eb71f8)
     (at 135.801695 80.51)
     (property "MANUFACTURER" "Ignion")
@@ -6361,7 +6361,7 @@
     )
   )
 
-  (footprint "TinyS3_P3:_0402_SRN" (layer "F.Cu")
+  (footprint "TinyWATCH_S3:_0402_SRN" (layer "F.Cu")
     (tstamp cf3f1622-738f-4cef-842e-ec7d039e197a)
     (at 148.6 95.235 180)
     (property "Sheetfile" "TinyWATCH_S3_P3.kicad_sch")
@@ -6409,7 +6409,7 @@
     )
   )
 
-  (footprint "Unexpected Maker:MagneticBuzzer_KLJ-4020" (layer "F.Cu")
+  (footprint "TinyWATCH_S3:MagneticBuzzer_KLJ-4020" (layer "F.Cu")
     (tstamp cf5cafc8-76d8-45aa-93fc-d3a11907eda5)
     (at 134.78 107.56 180)
     (descr "MagneticBuzzer Kobitone 254-EMB84Q-RO https://www.mouser.es/datasheet/2/209/KT-400385-1171904.pdf")
@@ -6449,7 +6449,7 @@
     )
   )
 
-  (footprint "Unexpected Maker:MAX17048G_T10_SON50P200X200X80-9N" (layer "F.Cu")
+  (footprint "TinyWATCH_S3:MAX17048G_T10_SON50P200X200X80-9N" (layer "F.Cu")
     (tstamp d34fe5fe-0fb2-497c-ab1c-a235a1345ba7)
     (at 137.83 94 180)
     (property "Sheetfile" "TinyWATCH_S3_P3.kicad_sch")
@@ -6520,7 +6520,7 @@
     )
   )
 
-  (footprint "TinyS3_P3:_0402_SRN" (layer "F.Cu")
+  (footprint "TinyWATCH_S3:_0402_SRN" (layer "F.Cu")
     (tstamp d5f2d64d-df66-4790-86d2-b3f01443435a)
     (at 153.0446 87.84225 180)
     (property "Sheetfile" "TinyWATCH_S3_P3.kicad_sch")
@@ -6792,7 +6792,7 @@
       (stroke (width 0) (type solid)) (fill solid) (layer "F.SilkS") (tstamp bfc8ae1d-7462-4741-8609-e4dda30e0bb4))
   )
 
-  (footprint "TinyS3_P3:_0402_SRN" (layer "F.Cu")
+  (footprint "TinyWATCH_S3:_0402_SRN" (layer "F.Cu")
     (tstamp da5a623d-1989-4439-bcf9-2e5a58a54f92)
     (at 144.81 80.8 90)
     (property "Sheetfile" "TinyWATCH_S3_P3.kicad_sch")
@@ -6975,7 +6975,7 @@
     )
   )
 
-  (footprint "TinyS3_P3:_0402_SRN" (layer "F.Cu")
+  (footprint "TinyWATCH_S3:_0402_SRN" (layer "F.Cu")
     (tstamp df12aa94-2c79-4037-8b0a-62908dd6308d)
     (at 141.28 93.08 -45)
     (property "Sheetfile" "TinyWATCH_S3_P3.kicad_sch")
@@ -7023,7 +7023,7 @@
     )
   )
 
-  (footprint "TinyS3_P3:_0402_SRN" (layer "F.Cu")
+  (footprint "TinyWATCH_S3:_0402_SRN" (layer "F.Cu")
     (tstamp e18eb764-80d6-4086-b0c3-686191fc178d)
     (at 157.94 85.47 180)
     (property "Sheetfile" "TinyWATCH_S3_P3.kicad_sch")
@@ -7075,7 +7075,7 @@
     )
   )
 
-  (footprint "TinyS3_P3:_0402_SRN" (layer "F.Cu")
+  (footprint "TinyWATCH_S3:_0402_SRN" (layer "F.Cu")
     (tstamp e401a5a3-fb33-4716-8a98-0f8c23997881)
     (at 140.64 80.23 -115)
     (property "Sheetfile" "TinyWATCH_S3_P3.kicad_sch")
@@ -7129,7 +7129,7 @@
     )
   )
 
-  (footprint "TinyS3_P3:_0402_SRN" (layer "F.Cu")
+  (footprint "TinyWATCH_S3:_0402_SRN" (layer "F.Cu")
     (tstamp e4588935-0d53-4ac1-9621-0d1add7a38c8)
     (at 148.6 96.31)
     (property "Sheetfile" "TinyWATCH_S3_P3.kicad_sch")
@@ -7177,7 +7177,7 @@
     )
   )
 
-  (footprint "TinyS3_P3:_0402_SRN" (layer "F.Cu")
+  (footprint "TinyWATCH_S3:_0402_SRN" (layer "F.Cu")
     (tstamp e5470597-910f-4fa7-881e-408757fa46c2)
     (at 139.41 90.65 90)
     (property "Sheetfile" "TinyWATCH_S3_P3.kicad_sch")
@@ -7229,7 +7229,7 @@
     )
   )
 
-  (footprint "TinyS3_P3:_0402_SRN" (layer "F.Cu")
+  (footprint "TinyWATCH_S3:_0402_SRN" (layer "F.Cu")
     (tstamp e7b14705-c840-40c9-a1ab-b4bf5ab7395a)
     (at 143.71 101.19 90)
     (property "Sheetfile" "TinyWATCH_S3_P3.kicad_sch")
@@ -7277,7 +7277,7 @@
     )
   )
 
-  (footprint "TinyS3_P3:_0603MP" (layer "F.Cu")
+  (footprint "TinyWATCH_S3:_0603MP" (layer "F.Cu")
     (tstamp e7bb63f0-c1d9-423f-bacc-e88b20f87d08)
     (at 152.14 100.58 90)
     (descr "<b>0603 MicroPitch</b>")
@@ -7337,7 +7337,7 @@
     )
   )
 
-  (footprint "TinyS3_P3:_0402_SRN" (layer "F.Cu")
+  (footprint "TinyWATCH_S3:_0402_SRN" (layer "F.Cu")
     (tstamp e9021773-ee0d-4cbc-a256-de298f9b2a45)
     (at 135.06 90.9 90)
     (property "Sheetfile" "TinyWATCH_S3_P3.kicad_sch")
@@ -7451,7 +7451,7 @@
       (stroke (width 0.3) (type solid)) (layer "Dwgs.User") (tstamp ae86cd5a-c950-4d3d-a318-37a4abea6b09))
   )
 
-  (footprint "TinyS3_P3:_0402_SRN" (layer "F.Cu")
+  (footprint "TinyWATCH_S3:_0402_SRN" (layer "F.Cu")
     (tstamp ee9c3938-efc9-4900-8fa5-b2918d07780f)
     (at 149.85 101.86 90)
     (property "Sheetfile" "TinyWATCH_S3_P3.kicad_sch")
@@ -7499,7 +7499,7 @@
     )
   )
 
-  (footprint "TinyS3_P3:_0402_SRN" (layer "F.Cu")
+  (footprint "TinyWATCH_S3:_0402_SRN" (layer "F.Cu")
     (tstamp eed9bbf7-4c29-4e95-b6ae-ffac6bb6cb5b)
     (at 142.21 82.96 45)
     (property "Sheetfile" "TinyWATCH_S3_P3.kicad_sch")
@@ -7547,7 +7547,7 @@
     )
   )
 
-  (footprint "TinyS3_P3:_0402_SRN" (layer "F.Cu")
+  (footprint "TinyWATCH_S3:_0402_SRN" (layer "F.Cu")
     (tstamp eee431c4-e49b-4746-bb60-f0fb411eefdd)
     (at 139.28 96.9)
     (property "Sheetfile" "TinyWATCH_S3_P3.kicad_sch")
@@ -7595,7 +7595,7 @@
     )
   )
 
-  (footprint "Unexpected Maker:USB-C-16P-LESSPASTE-2-FIxed" (layer "F.Cu")
+  (footprint "TinyWATCH_S3:USB-C-16P-LESSPASTE-2-FIxed" (layer "F.Cu")
     (tstamp efdb8d12-3513-45ff-832a-8bf840787306)
     (at 158.4 98.35 90)
     (property "Sheetfile" "TinyWATCH_S3_P3.kicad_sch")
@@ -7920,7 +7920,7 @@
     )
   )
 
-  (footprint "TinyS3_P3:_0603MP" (layer "F.Cu")
+  (footprint "TinyWATCH_S3:_0603MP" (layer "F.Cu")
     (tstamp f127a366-a2f6-4bfb-8151-6f74e833e5af)
     (at 135.95 95.94)
     (descr "<b>0603 MicroPitch</b>")
@@ -7980,7 +7980,7 @@
     )
   )
 
-  (footprint "TinyS3_P3:_0402_SRN" (layer "F.Cu")
+  (footprint "TinyWATCH_S3:_0402_SRN" (layer "F.Cu")
     (tstamp f2ae05d2-55b1-4734-a35b-4535b5dacf2a)
     (at 138.941696 80.51 180)
     (property "Sheetfile" "TinyWATCH_S3_P3.kicad_sch")
@@ -8034,7 +8034,7 @@
     )
   )
 
-  (footprint "TinyS3_P3:_0603MP" (layer "F.Cu")
+  (footprint "TinyWATCH_S3:_0603MP" (layer "F.Cu")
     (tstamp f3bd6cc0-8725-4569-88b0-9c010172e5af)
     (at 151.61 98.13 180)
     (descr "<b>0603 MicroPitch</b>")
@@ -8098,7 +8098,7 @@
     )
   )
 
-  (footprint "TinyS3_P3:_0402_SRN" (layer "F.Cu")
+  (footprint "TinyWATCH_S3:_0402_SRN" (layer "F.Cu")
     (tstamp f4e89bdd-d7f0-495a-a0e8-f674d14af69e)
     (at 141.52 81.62 135)
     (property "Sheetfile" "TinyWATCH_S3_P3.kicad_sch")
@@ -8216,7 +8216,7 @@
     )
   )
 
-  (footprint "TinyS3_P3:_0402_SRN" (layer "F.Cu")
+  (footprint "TinyWATCH_S3:_0402_SRN" (layer "F.Cu")
     (tstamp ff2931e9-397f-4187-aed8-d4eda6234158)
     (at 150.41 96.74 135)
     (property "Sheetfile" "TinyWATCH_S3_P3.kicad_sch")
@@ -8268,7 +8268,7 @@
     )
   )
 
-  (footprint "UnexpectedMaker:UM_LOGO_NEW_SMALL" (layer "B.Cu")
+  (footprint "TinyWATCH_S3:UM_LOGO_NEW_SMALL" (layer "B.Cu")
     (tstamp 1abb68b2-9096-400b-a54d-07c3ba713d9f)
     (at 146.19 104.61 180)
     (property "Sheetfile" "TinyWATCH_S3_P3.kicad_sch")
