@@ -349,7 +349,7 @@
       (net 1 "GND") (pinfunction "1") (pintype "passive") (tstamp 1998d203-e972-4dda-b194-0b44665c10b3))
     (pad "2" smd rect (at 1.7 0 90) (size 0.9 1.7) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 12 "/IO0") (pinfunction "2") (pintype "passive") (tstamp 26cd103c-1873-415a-a18f-46e93bea3843))
-    (model "/Users/seon/Dropbox/KiCad/Models/B3U-3000P--3DModel-STEP-56544.STEP"
+    (model "3d_models/B3U-3000P--3DModel-STEP-56544.STEP"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz -90 0 0))
@@ -499,7 +499,7 @@
       (net 1 "GND") (pinfunction "E") (pintype "passive") (tstamp 6a2410ef-241d-4b57-ab44-b2a4b0d19146))
     (pad "3" smd rect (at 0.575 0 180) (size 0.45 0.5) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 80 "/BUZZ") (pinfunction "C") (pintype "passive") (tstamp 8e26e7e4-2a86-4113-b45c-f02986d2d711))
-    (model "/Users/seon/Dropbox/KiCad/Models/SOT-723.STEP"
+    (model "3d_models/SOT-723.STEP"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz -90 0 90))
@@ -1077,7 +1077,7 @@
       (net 66 "/VBUS-IN") (pinfunction "VDD") (pintype "power_in") (tstamp 69c8c38d-a1ff-4895-a8df-0ef89d5e3060))
     (pad "8" smd rect (at 0.55 -1.35) (size 0.7 0.5) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 40 "/RTC_EVI") (pinfunction "EVI") (pintype "input") (tstamp 0f6f8d45-9ea3-42f8-ae83-0e977c25deae))
-    (model "/Users/seon/Dropbox/KiCad/Models/RV-3028-C7-32.768KHZ-1PPM-TA-QA.step"
+    (model "3d_models/RV-3028-C7-32.768KHZ-1PPM-TA-QA.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz -90 0 0))
@@ -1259,7 +1259,7 @@
       (net 33 "unconnected-(JST-LIPO1-PadSHLD1)") (pinfunction "SHLD1") (pintype "bidirectional+no_connect") (solder_mask_margin 0.0254) (tstamp b8e46ad8-f89d-4202-b649-b73e20dcbe68))
     (pad "SHLD2" smd roundrect (at 2.75 -1.0414 270) (size 2.8448 2.2) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.1)
       (net 34 "unconnected-(JST-LIPO1-PadSHLD2)") (pinfunction "SHLD2") (pintype "bidirectional+no_connect") (solder_mask_margin 0.0254) (tstamp cfd990fc-26a8-4c61-aa86-4649e24a6a3f))
-    (model "/Users/seon/Dropbox/KiCad/Models/PICOBLADE Col v3.step"
+    (model "3d_models/PICOBLADE Col v3.step"
       (offset (xyz 0 2 1.75))
       (scale (xyz 1 0.9 1))
       (rotate (xyz 0 0 0))
@@ -1919,7 +1919,7 @@
     (pad "8" smd rect (at 1.22 -0.75 180) (size 0.49 0.35) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 2 "3.3V") (pinfunction "VCC") (pintype "bidirectional") (tstamp 8305bac5-7b3b-4d00-966d-44231bc004b5))
     (pad "9" smd rect (at 0 0) (size 0.2 1.6) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 5f424a9e-6a88-4ea4-a6b7-96e9815655f3))
-    (model "/Users/seon/Dropbox/KiCad/Models/Flash_W25Q80DVUXIE.step"
+    (model "3d_models/Flash_W25Q80DVUXIE.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz -90 0 0))
@@ -2297,7 +2297,7 @@
       (net 1 "GND") (pinfunction "E") (pintype "passive") (tstamp 836c3f89-2827-41e5-809e-68381dba1c27))
     (pad "3" smd rect (at 0.575 0 270) (size 0.45 0.5) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 30 "Net-(Q1-C)") (pinfunction "C") (pintype "passive") (tstamp 7612434f-661c-49ea-8964-0c9155261b3f))
-    (model "/Users/seon/Dropbox/KiCad/Models/SOT-723.STEP"
+    (model "3d_models/SOT-723.STEP"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz -90 0 90))
@@ -2915,7 +2915,7 @@
       (net 6 "/RESET") (pinfunction "1") (pintype "passive") (tstamp 7a2d533f-e06f-4a6e-9980-e0a9e40b02ee))
     (pad "2" smd rect (at 1.7 0 270) (size 0.9 1.7) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 1 "GND") (pinfunction "2") (pintype "passive") (tstamp 126eed19-77ae-421d-b6d5-1925545b9129))
-    (model "/Users/seon/Dropbox/KiCad/Models/B3U-3000P--3DModel-STEP-56544.STEP"
+    (model "3d_models/B3U-3000P--3DModel-STEP-56544.STEP"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz -90 0 0))
@@ -3845,7 +3845,7 @@
       (net 2 "3.3V") (pinfunction "VDDA_1") (pintype "bidirectional") (solder_mask_margin 0.0254) (tstamp 54ffc15f-0832-4c09-bc4b-bff65e05a494))
     (pad "EXP" smd roundrect (at 0 0 315) (size 3.9 3.9) (layers "F.Cu" "F.Mask") (roundrect_rratio 0.025)
       (net 1 "GND") (pinfunction "GNDPAD") (pintype "power_in") (solder_mask_margin 0.0254) (tstamp 4a285bf7-fdcb-4306-bf83-e96b76ef344c))
-    (model "/Users/seon/Dropbox/KiCad/Models/ESP32_S2--3DModel-STEP-1.STEP"
+    (model "3d_models/ESP32_S2--3DModel-STEP-1.STEP"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz -90 0 0))
@@ -4037,7 +4037,7 @@
       (net 1 "GND") (pinfunction "Pin_18") (pintype "passive") (tstamp b9a0cdf6-d5ba-4ea0-b486-babeef54fceb))
     (pad "MP" smd rect (at -6.15 1.4) (size 1.8 2.2) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp a451bad9-67f0-4674-897d-94b0c4ed3cbc))
     (pad "MP" smd rect (at 6.15 1.4) (size 1.8 2.2) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp d00a5de9-0cb0-4d8a-9acf-4f47cd730aeb))
-    (model "/Users/seon/Dropbox/KiCad/Models/FPC_18pin_0.5mm_1-1734592-8.stp"
+    (model "3d_models/FPC_18pin_0.5mm_1-1734592-8.stp"
       (offset (xyz 0 -2.8 0.8))
       (scale (xyz 1 0.9 1))
       (rotate (xyz -90 0 0))
@@ -4129,7 +4129,7 @@
       (net 66 "/VBUS-IN") (pinfunction "S") (pintype "passive") (solder_mask_margin 0.0254) (tstamp c3fefaf4-bbb2-47f9-ac85-2202aaa4e090))
     (pad "3" smd roundrect (at 0.555 0 90) (size 0.59 0.5) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.165)
       (net 4 "VBAT") (pinfunction "D") (pintype "passive") (solder_mask_margin 0.0254) (tstamp 1be29aa5-6369-4af2-9d29-64b94ea3af80))
-    (model "/Users/seon/Dropbox/KiCad/Models/SOT-723.STEP"
+    (model "3d_models/SOT-723.STEP"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz -90 0 90))
@@ -4448,7 +4448,7 @@
       ) (tstamp 1032f355-231b-4a61-8d7c-7852491298ea))
     (pad "5" smd roundrect (at 0 0 45) (size 0.4 0.4) (layers "F.Cu" "F.Mask") (roundrect_rratio 0.1)
       (net 1 "GND") (pinfunction "EXP") (pintype "power_in") (solder_mask_margin 0.0254) (tstamp 910d2c02-da2f-4d43-b841-033820430823))
-    (model "/Users/seon/Dropbox/KiCad/Models/NCP170AMX170TCG.STEP"
+    (model "3d_models/NCP170AMX170TCG.STEP"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz -90 0 90))
@@ -6103,7 +6103,7 @@
       (net 2 "3.3V") (pinfunction "VDD") (pintype "power_in") (tstamp 69279c24-8e99-4e8f-b611-f2d1ea514b30))
     (pad "6" smd rect (at 0 -1.4 90) (size 0.6 0.525) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 78 "Net-(IC4-DATA)") (pinfunction "DATA") (pintype "output") (tstamp 318c54c7-2e07-46c0-a998-6c3cf8fcf392))
-    (model "/Users/seon/Dropbox/KiCad/Models/SPH0645LM4H-B--3DModel-STEP-56544.STEP"
+    (model "3d_models/SPH0645LM4H-B--3DModel-STEP-56544.STEP"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 90 180 0))
@@ -6302,7 +6302,7 @@
     (pad "1" smd rect (at 1.7 0) (size 0.8 1.6) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 7 "/ANT") (pintype "input") (tstamp 39eda0a6-e48e-4c8b-9e06-b55e88b2a0b3))
     (pad "2" smd rect (at -1.7 0) (size 0.8 1.6) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 3ad5bbee-e7a3-4ab8-b4ff-1f3ea81f7f8f))
-    (model "/Users/seon/Dropbox/KiCad/Models/Antenna_Johanson_18B_4.wrl"
+    (model "3d_models/Antenna_Johanson_18B_4.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -7913,7 +7913,7 @@
         48342c60-208b-4e87-9e38-7a1bed30def8
       )
     )
-    (model "/Users/seon/Dropbox/KiCad/Models/HRO  USB-C col 3 v5.step"
+    (model "3d_models/HRO  USB-C col 3 v5.step"
       (offset (xyz -4.5 -4 0))
       (scale (xyz 1 1 1))
       (rotate (xyz -90 0 0))
@@ -8209,7 +8209,7 @@
       (net 71 "/ON-SW") (pinfunction "1") (pintype "passive") (tstamp ceb4b4a2-2c2f-48cb-8ef6-5c083238f9f1))
     (pad "2" smd rect (at 1.7 0 270) (size 0.9 1.7) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 1 "GND") (pinfunction "2") (pintype "passive") (tstamp 03140d50-abd5-4985-9b57-622320848aa1))
-    (model "/Users/seon/Dropbox/KiCad/Models/B3U-3000P--3DModel-STEP-56544.STEP"
+    (model "3d_models/B3U-3000P--3DModel-STEP-56544.STEP"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz -90 0 0))
