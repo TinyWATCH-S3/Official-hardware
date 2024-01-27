@@ -12233,7 +12233,7 @@
     (property "Value" "LIPO" (at 52.324 114.3 90)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
-    (property "Footprint" "JSTPH2-NO-STENCIL" (at 44.069 115.697 0)
+    (property "Footprint" "Unexpected Maker:JST-PICOBLADE" (at 44.069 115.697 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 44.069 115.697 0)
